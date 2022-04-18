@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects mostly about **Data Processing, Machine Learning**
 
-- 🎓 Pursuing My Computer Scince Degrees in **Udacity and UPN Veteran Yogyakarta**
+- 🎓 Computer Scince Student in **Udacity and UPN Veteran Yogyakarta**
 <img align="right" alt="Coding" width="400" src="https://github.com/Dhiemasady/gif/blob/main/200.gif">
 
 <h3 align="left">Languages and Tools:</h3>
