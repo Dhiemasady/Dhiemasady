@@ -21,10 +21,11 @@
 <p align="left">Connect with me:</p>
 <p align="left">
 <a href="https://linkedin.com/in/dhiemasadykw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiemasadykw" height="30" width="40" /></a>
+<br><br>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiemasady&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dhiemasady" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiemasady&show_icons=true&locale=en&layout=compact" alt="dhiemasady" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhiemasady&show_icons=true&locale=en&theme=tokyonight" alt="dhiemasady" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhiemasady&show_icons=true&locale=en" alt="dhiemasady" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiemasady&" alt="dhiemasady" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiemasady&&theme=tokyonight" alt="dhiemasady" /></p>
